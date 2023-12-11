@@ -20,5 +20,5 @@ Viral Advertising technical test
 npm install
 ```
 
-Launch unit tests command: jest tests/viralqdvertising.spec.ts
+Launch unit tests command: jest tests/viraladvertising.spec.ts
 ```
